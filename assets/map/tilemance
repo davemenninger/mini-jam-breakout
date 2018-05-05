@@ -1,0 +1,20 @@
+Tilemancer 0.2.1
+
+Color 0 0 0
+PaletteSave1 
+PaletteSave2 
+FileSave1 /Users/dave/git/mini-jam-breakout/assets/map
+FileSave2 tilemance
+Indexed 0
+Size 8
+Camera 0 0
+Node {
+Name perlin_noise.lua
+Position 473 210
+Parameter 0 -1 -1 0
+Parameter 2 2 -1 0
+Parameter 3 1 -1 0
+Parameter 200 100 -1 0
+Parameter 80 0 100 0
+Parameter 100 0 -1 0
+}
